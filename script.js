@@ -75,7 +75,7 @@ form.addEventListener('submit', (e) => {
     e.preventDefault();
     const user = search.value;
     if(user) {
-      if(user == 'VladimirSaenko' ||user == 'alexanderkhapchenko' || user == 'Dizabanik') {
+      if(user == 'VladimirSaenko' || user == 'alexanderkhapchenko' || user == 'Dizabanik') {
         createErrorCard('top secret');
       }
       else if(user == 'aboba') {
