@@ -1,4 +1,4 @@
-# GitHub-User-Searching
+# Github-User-Searching
 
 ## Поиск профилей GitHub
 
