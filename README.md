@@ -6,4 +6,4 @@
 
 ### Codepen: https://codepen.io/vladimirsaenko/pen/oNGwjML
 
-### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-43/GitHub-UserSearching/index.html
+### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-38/GitHub-UserSearching/index.html
